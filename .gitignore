@@ -1,0 +1,5 @@
+build/
+*.apk
+*.apk.idsig
+# Signing key: keep a copy somewhere safe. A different key means uninstall + reinstall to update.
+debug.keystore
